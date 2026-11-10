@@ -17,4 +17,4 @@ Full-stack & AI engineer · CMC University, Hà Nội
 
 TypeScript · Python · React · Next.js · FastAPI · Supabase · Docker
 
-CSCV 2026 Consolation Prize · IELTS 7.5
+CSCV 2026 (CTF) Consolation Prize · IELTS 7.5
