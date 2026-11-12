@@ -1,8 +1,8 @@
-# Đặng Thái Bình
+# DANG THAI BINH
 
-Full-stack & AI engineer · CTF Player CMC · University, Hà Nội
+Full-stack & AI engineer · CTF Player · CMC University, Ha Noi, Vietnam
 
-[🌐 Portfolio](https://k4spi4n.github.io/about-binh) · [🎮 itch.io](https://k4spi4n.itch.io) · [💬 Discord](https://discord.com/users/948169866760839178) · [✉️ Email](mailto:thaibinhakashi2@gmail.com)
+[🌐 Portfolio](https://k4spi4n.github.io/about-binh) · [🎮 itch.io](https://k4spi4n.itch.io) · [💬 Discord](https://discord.com/users/948169866760839178) · [👥 Facebook](https://www.facebook.com/binh.thai.60194/) · [✉️ Email](mailto:thaibinhakashi2@gmail.com)
 
 ### Selected work
 
