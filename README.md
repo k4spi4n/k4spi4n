@@ -15,6 +15,6 @@ Full-stack & AI engineer · CTF Player · CMC University, Ha Noi, Vietnam
 
 ### Stack
 
-TypeScript · Python · React · Next.js · FastAPI · Supabase · Docker
+TypeScript · Python · React · Next.js · FastAPI · Supabase · Docker · Whatever the problem needs
 
 CSCV 2026 (CTF) Consolation Prize · IELTS 7.5
