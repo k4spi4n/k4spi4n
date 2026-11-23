@@ -9,6 +9,7 @@ Full-stack & AI engineer · CTF Player · CMC University, Ha Noi, Vietnam
 | Project | What it does |
 | --- | --- |
 | [🏢 PMA](https://b2bpmp.io.vn/) | Corporate learning platform used by 5+ companies. |
+| [🎮 Pair Time](https://k4spi4n.itch.io/pair-time) | A cozy coding companion game that embed real terminals. |
 | [🏠 DynaTour](https://dynatour.io.vn/) | Phone video → 3D property tours. Top 10, NEU Startup Olympiad 2026. |
 | [🏃 Runny AI](https://github.com/k4spi4n/runny-ai) | AI running coach with multi-provider LLM support. |
 | [🏥 Smart Hospital](https://github.com/k4spi4n/cmec-hms-web-app) | Hospital management with AI record summaries. |
